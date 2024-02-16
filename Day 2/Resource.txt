@@ -1,0 +1,5 @@
+Code shef practice old then Hacker Rank then Leetcode
+For : When range is given
+While : When range is not given
+Do While : Do while is use for menu driven program
+
