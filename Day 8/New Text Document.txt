@@ -1,0 +1,5 @@
+create table emp(
+eno number(4),
+ename char(10),
+city char(10),
+address varchar(10));
