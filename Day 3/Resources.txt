@@ -1,0 +1,24 @@
+for( ; ; ){ rows
+	for( ; ; ){	columns
+		print row's
+	}
+}
+
+
+for can hold more than one variable
+except in condition for loop
+
+
+----------------------------
+
+Array
+for eg. a=10, a=20, a=30
+every time have to overwrite the value
+to store more than one value/Multiple value's
+
+(data structure) Array is finite ordered and collection of similar type of data elements
+
+finite : fixed in size (Static linear data structure)
+ordered : arryas data are store orederly 
+homogenoous : only one type of data is stored;
+
